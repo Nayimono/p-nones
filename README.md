@@ -1,14 +1,11 @@
-@@ -1,90 +1,11 @@
+
 # nones (non-exists)
-# P-NONES Step 2
+
 
 **nones**는 조직의 보안 운영을 간소화하고,  
 유지보수에 사람이 상시 개입하지 않아도 되는 **‘사람 없는 편의성’**을 목표로 하는  
 **제품 기반 보안 솔루션 회사**입니다.
-## Run
-```
-mvn package
-java -jar target/pnones-0.2.0.war
+
 ```
 
 우리는 반복적인 운영 작업을 자동화하고,  
@@ -95,6 +92,3 @@ This project is licensed under the **CC BY-NC-SA 4.0** License.
 > **보안 운영에서 사람을 제거한다.**  
 > 자동화와 투명성을 통해  
 > 더 안전하고 단순한 시스템을 만든다.
-## URLs
-- http://localhost:8080/        (Setup Wizard)
-- http://localhost:8080/api/flows
