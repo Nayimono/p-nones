@@ -83,6 +83,7 @@ This project is licensed under the **CC BY-NC-SA 4.0** License.
 ## 📩 Contact
 
 - 📧 phone : '010-4972-3417'
+- 💰 투자 : 카카오뱅크 3333-36-7604854
 
 
 
